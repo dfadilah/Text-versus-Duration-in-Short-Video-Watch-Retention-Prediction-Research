@@ -1,0 +1,9 @@
+pid,text_clean,word_count,duration,n_penonton,retensi aktual,pred XGBoost (durasi saja) [durasi],pred TF-IDF + XGBoost [teks + durasi],pred Bi-LSTM [teks + durasi],pred BERT [teks],pred BERT [teks + durasi]
+9945,"translation: ""hello, i'm a helpful human assistant!""...",7,92.888,10,0.342,0.426,0.422,0.689,0.625,0.702
+36414,there are too many reasons for regret where the wind passes. goodbye w...,13,8.3,7,0.926,0.731,0.743,0.496,0.574,0.609
+7045,"stand on one foot on white paper, take the bottle with the other foot,...",33,14.5,5,0.814,0.619,0.631,0.603,0.635,0.697
+61940,"this is fresh corn, all of which was harvested this year. it has a sti...",41,27.033,9,0.09,0.53,0.471,0.538,0.562,0.494
+98150,"the old mom is picking vegetables downstairs, and the four children ar...",76,18.466,6,0.685,0.578,0.526,0.486,0.662,0.668
+5129,the netizen father is the true master of misleading. the netizen fathe...,50,12.866,5,1.0,0.635,0.677,0.549,0.643,0.72
+36628,"i'm not sure how many cars have been in our garage, but i know it's th...",173,59.95,5,0.267,0.493,0.496,0.479,0.475,0.545
+37231,"i'm already earning 3,200 per month, and i have the ability to choose ...",138,66.233,7,0.384,0.459,0.391,0.502,0.419,0.456
